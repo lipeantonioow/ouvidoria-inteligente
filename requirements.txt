@@ -1,0 +1,10 @@
+streamlit>=1.37
+sentence-transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+altair
+langchain-text-splitters
+jupyter

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-03-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A rua Joaquim Nabuco, no bairro Torre, está completamente escura há duas semanas porque os postes pararam de funcionar."
+  },
+  {
+    "id": "M002",
+    "data": "2026-03-02",
+    "categoria_oficial": "saúde",
+    "texto": "A farmácia do posto de saúde do bairro Cristo está sem remédio para pressão há quase um mês. Minha mãe precisa do medicamento todo dia."
+  },
+  {
+    "id": "M003",
+    "data": "2026-03-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem um buraco enorme na Av. Brasil, perto do mercado. Já vi duas motos caírem nele esta semana."
+  },
+  {
+    "id": "M004",
+    "data": "2026-03-03",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do Valentina está com o telhado da sala 3 cheio de goteiras. Quando chove, as crianças são mandadas para casa."
+  },
+  {
+    "id": "M005",
+    "data": "2026-03-04",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento da Rua Epitácio Pessoa com a Rua Rui Carneiro está piscando amarelo há três dias e quase aconteceu uma batida."
+  },
+  {
+    "id": "M006",
+    "data": "2026-03-05",
+    "categoria_oficial": "segurança",
+    "texto": "Pedimos mais rondas policiais no bairro Mangabeira. Os moradores estão com medo de sair à noite depois de vários furtos a residências."
+  },
+  {
+    "id": "M007",
+    "data": "2026-03-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Estão cortando árvores antigas na praça do bairro Bessa sem nenhuma placa de autorização. Gostaria de saber se isso foi liberado pela prefeitura."
+  },
+  {
+    "id": "M008",
+    "data": "2026-03-06",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro Cristo está sem médico desde o começo do mês. As pessoas chegam cedo e voltam para casa sem consulta."
+  },
+  {
+    "id": "M009",
+    "data": "2026-03-06",
+    "categoria_oficial": "educação",
+    "texto": "Meu filho está sem professor de matemática desde fevereiro na escola municipal do bairro Cruz das Armas."
+  },
+  {
+    "id": "M010",
+    "data": "2026-03-07",
+    "categoria_oficial": "educação",
+    "texto": "Na escola municipal do bairro Alto do Mateus não está sendo servida merenda escolar há uma semana. As crianças ficam com fome até o fim da aula."
+  },
+  {
+    "id": "M011",
+    "data": "2026-03-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua da Areia está toda quebrada, com pedras soltas. Idosos e cadeirantes não conseguem passar."
+  },
+  {
+    "id": "M012",
+    "data": "2026-03-09",
+    "categoria_oficial": "segurança",
+    "texto": "Estão acontecendo muitos assaltos no ponto de ônibus da Rua das Flores à noite. Já roubaram celular de três vizinhos."
+  },
+  {
+    "id": "M013",
+    "data": "2026-03-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Tem um carro de som passando todo dia de manhã cedo no bairro Ernesto Geisel com volume altíssimo."
+  },
+  {
+    "id": "M014",
+    "data": "2026-03-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há muito lixo acumulado no terreno baldio da Rua Duque de Caxias, no Centro. Está juntando rato e mosquito."
+  },
+  {
+    "id": "M015",
+    "data": "2026-03-11",
+    "categoria_oficial": "saúde",
+    "texto": "A marcação de exames no posto do bairro Rangel está demorando mais de três meses. Preciso de um exame de sangue simples."
+  },
+  {
+    "id": "M016",
+    "data": "2026-03-12",
+    "categoria_oficial": "segurança",
+    "texto": "A praça do bairro Bancários virou ponto de venda de drogas à noite. As famílias deixaram de levar as crianças para brincar lá."
+  },
+  {
+    "id": "M017",
+    "data": "2026-03-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal. Tem uma cratera no meio da pista que já derrubou motociclistas e estraga os pneus dos carros.",
+    "duplicata_de": "M003"
+  },
+  {
+    "id": "M018",
+    "data": "2026-03-13",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus do transporte escolar da zona rural não passou nesta semana e os alunos perderam as provas."
+  },
+  {
+    "id": "M019",
+    "data": "2026-03-14",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O bar da esquina da Rua Silvino Lopes fica com som alto até de madrugada, todos os dias. Ninguém consegue dormir."
+  },
+  {
+    "id": "M020",
+    "data": "2026-03-15",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Venho, mais uma vez, registrar a situação da Rua Projetada 12, no bairro Gramame. Sempre que chove forte a rua inteira alaga, porque não existe drenagem e as bocas de lobo estão entupidas de lixo e areia. A água invade as casas mais baixas e já perdemos móveis e eletrodomésticos. Além disso, com as chuvas, o barro que desce do morro deixa a rua intransitável e os ônibus deixam de passar, então os trabalhadores precisam andar mais de um quilômetro até outro ponto. Os moradores já fizeram mutirão para limpar os bueiros, mas o problema volta a cada temporal. Pedimos uma obra de drenagem definitiva e a pavimentação da rua."
+  },
+  {
+    "id": "M021",
+    "data": "2026-03-16",
+    "categoria_oficial": "segurança",
+    "texto": "Os postes de uma viela no bairro Mandacaru estão com as câmeras de monitoramento desligadas, e os moradores relatam aumento de furtos."
+  },
+  {
+    "id": "M022",
+    "data": "2026-03-16",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF do Cristo. A unidade está sem doutor e a população volta sem ser atendida, só fazem curativo.",
+    "duplicata_de": "M008"
+  },
+  {
+    "id": "M023",
+    "data": "2026-03-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A queimada de lixo no terreno ao lado da minha casa, no bairro Costa e Silva, está deixando a fumaça entrar em todos os cômodos."
+  },
+  {
+    "id": "M024",
+    "data": "2026-03-18",
+    "categoria_oficial": "educação",
+    "texto": "A creche municipal do bairro José Américo está sem vagas e a lista de espera já passa de cem crianças."
+  },
+  {
+    "id": "M025",
+    "data": "2026-03-18",
+    "categoria_oficial": "saúde",
+    "texto": "Quero relatar o que aconteceu com meu pai na UPA do bairro Oitizeiro. Ele chegou com dor no peito às oito da noite e só foi atendido depois da meia-noite, sentado numa cadeira de plástico no corredor porque não havia leito. Não tinha cardiologista de plantão e o eletrocardiograma estava quebrado, então ele precisou ser transferido de ambulância para outro hospital, o que levou mais duas horas. Durante a espera, ninguém da equipe explicou o que estava acontecendo. Entendo que a demanda é grande, mas a falta de médicos e de equipamentos está colocando vidas em risco. Peço que a prefeitura amplie as equipes e faça a manutenção dos aparelhos."
+  },
+  {
+    "id": "M026",
+    "data": "2026-03-19",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O ônibus da linha 510 está atrasando mais de uma hora nos horários de pico e sempre passa lotado."
+  },
+  {
+    "id": "M027",
+    "data": "2026-03-20",
+    "categoria_oficial": "segurança",
+    "texto": "Roubos frequentes na parada de ônibus da Rua das Flores quando escurece. Levaram a bolsa da minha esposa na terça-feira.",
+    "duplicata_de": "M012"
+  },
+  {
+    "id": "M028",
+    "data": "2026-03-21",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O esgoto está correndo a céu aberto na Rua Manoel Deodato, no bairro Varjão, com mau cheiro forte."
+  },
+  {
+    "id": "M029",
+    "data": "2026-03-21",
+    "categoria_oficial": "educação",
+    "texto": "As crianças da escola municipal do Alto do Mateus estão sem alimentação. A merenda não chega há dias e os alunos voltam para casa com fome.",
+    "duplicata_de": "M010"
+  },
+  {
+    "id": "M030",
+    "data": "2026-03-22",
+    "categoria_oficial": "segurança",
+    "texto": "Sou comerciante no centro da cidade e escrevo em nome de vários lojistas da Rua Duque de Caxias. Nos últimos dois meses, pelo menos seis lojas foram arrombadas durante a madrugada. A iluminação da rua é fraca, as câmeras da prefeitura não funcionam e não vemos viatura passando depois das dez da noite. Muitos comerciantes estão pagando segurança particular por conta própria, e alguns pensam em fechar as portas. Os clientes também reclamam de medo de circular no fim da tarde, quando os assaltos a pedestres aumentam. Solicitamos reforço no policiamento, conserto das câmeras e melhoria da iluminação pública na região."
+  },
+  {
+    "id": "M031",
+    "data": "2026-03-23",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem uma lâmpada queimada na praça do bairro Jaguaribe. À noite fica tudo escuro perto do parquinho."
+  },
+  {
+    "id": "M032",
+    "data": "2026-03-24",
+    "categoria_oficial": "saúde",
+    "texto": "Faltam vacinas contra a gripe na unidade de saúde do Valentina. Fui três vezes e disseram para voltar outro dia."
+  },
+  {
+    "id": "M033",
+    "data": "2026-03-25",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Barulho do bar da Rua Silvino Lopes até tarde da noite, com música ao vivo em volume absurdo, toda semana.",
+    "duplicata_de": "M019"
+  },
+  {
+    "id": "M034",
+    "data": "2026-03-25",
+    "categoria_oficial": "saúde",
+    "texto": "Demora muito para conseguir consulta com especialista pelo posto do bairro Rangel. Estou esperando um ortopedista há cinco meses."
+  },
+  {
+    "id": "M035",
+    "data": "2026-03-26",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Entulho e resíduos jogados no lote vazio da Rua Duque de Caxias, no Centro. O lugar virou um lixão com ratos.",
+    "duplicata_de": "M014"
+  },
+  {
+    "id": "M036",
+    "data": "2026-03-27",
+    "categoria_oficial": "educação",
+    "texto": "Sou mãe de dois alunos da escola municipal do bairro Gramame e preciso relatar vários problemas. O transporte escolar atrasa quase todos os dias e, quando chove, simplesmente não passa, porque a estrada fica cheia de lama. Dentro da escola, os ventiladores das salas estão quebrados e as crianças passam a manhã inteira no calor, o que atrapalha a concentração. A biblioteca está fechada desde o início do ano por falta de funcionário, e os livros didáticos chegaram incompletos. A diretora diz que já enviou vários ofícios à secretaria, sem resposta. Pedimos atenção urgente, porque nossos filhos estão sendo prejudicados."
+  },
+  {
+    "id": "M037",
+    "data": "2026-03-28",
+    "categoria_oficial": "segurança",
+    "texto": "O policiamento na orla do Cabo Branco diminuiu e aumentaram os furtos de bicicletas no calçadão."
+  },
+  {
+    "id": "M038",
+    "data": "2026-03-29",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A ponte de madeira que liga as comunidades do bairro São José está com tábuas soltas e pode desabar a qualquer momento."
+  },
+  {
+    "id": "M039",
+    "data": "2026-03-30",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do Bairro dos Novais não tem pediatra. As mães precisam levar as crianças para o outro lado da cidade."
+  },
+  {
+    "id": "M040",
+    "data": "2026-03-31",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moro às margens do rio Jaguaribe e preciso denunciar a situação ambiental da região. Há canos despejando esgoto diretamente no rio, e a água, que antes era usada pelos pescadores, agora está escura e com cheiro insuportável. Nas margens, as pessoas jogam lixo e restos de construção, o que entope o leito e provoca enchentes nas casas próximas quando chove. Também vimos peixes mortos boiando no mês passado. As crianças brincam perto dessa água e já tiveram problemas de pele. Pedimos fiscalização das ligações clandestinas de esgoto, limpeza das margens e um projeto de recuperação do rio."
+  }
+]
